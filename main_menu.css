@@ -1,0 +1,24 @@
+p{
+    color: blue;
+}
+
+h1{
+    color: red;
+}
+
+body{
+    background-color: lightyellow; /* can style as many as needed as long add spacew betweren different rules */
+    color: black;
+}
+
+c1{
+    color: green;
+}
+
+button{
+    font-style: italic;
+}
+
+#more{
+    color: purple;
+}
